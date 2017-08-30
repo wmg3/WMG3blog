@@ -1,6 +1,6 @@
 <!--
-.. title: My Second Post
-.. slug: my-second-post
+.. title: My Image Post
+.. slug: my-image-post
 .. date: 2016-08-29 15:29:40 UTC
 .. tags: blog, netlify, github, nikola
 .. category: 
