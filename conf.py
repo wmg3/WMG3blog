@@ -24,7 +24,7 @@ BLOG_TITLE = "WMG3Blog"  # (translatable)
 SITE_URL = "https://wmg3blog.netlify.com"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://example.com/"
+BASE_URL = "https://wmg3blog.netlify.com/"
 BLOG_EMAIL = "joe@demo.site"
 BLOG_DESCRIPTION = "This is a demo site for Nikola using Netlify and GitHub."  # (translatable)
 
