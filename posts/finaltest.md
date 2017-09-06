@@ -1,11 +1,11 @@
 <!--
-.. title: My First Post
-.. slug: my-first-post
-.. date: 2016-08-29 15:29:40 UTC
+.. title: Finaltest Post
+.. slug: my-finaltest-post
+.. date: 2016-09-06 15:29:40 UTC
 .. tags: blog, netlify, github, nikola
-.. category: 
+.. category: test
 .. link: 
-.. description: 
+.. description: Final *Test* Post
 .. type: text
 -->
 
