@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Matt Gardner"  # (translatable)
 BLOG_TITLE = "WMG3Blog"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://wmg3.netlify.com"
+SITE_URL = "https://wmg3blog.netlify.com"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
