@@ -1,7 +1,7 @@
 <!--
 .. title: Republic Wireless
 .. slug: Republic Wireless
-.. date: 2016-09-21 15:29:40 UTC
+.. date: 2017-09-21 15:29:40 UTC
 .. tags: blog, republicwireless, money
 .. category: money
 .. link: 
