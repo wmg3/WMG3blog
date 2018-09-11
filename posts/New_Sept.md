@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-# This is just a NEW Practice Post for September 2018#
+# This is just a NEW Practice Post for September 2018 #
 
 Just a quick little post so that I can remember how to post to this blog.
 
