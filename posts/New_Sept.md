@@ -1,7 +1,7 @@
 <!--
 .. title: Practice Post for September  
 .. slug: practice post SEP      
-.. date: 2017-11-29 15:29:40 UTC
+.. date: 2018-09-11 15:29:40 UTC
 .. tags: blog, learning, 
 .. category: technology
 .. link: 
